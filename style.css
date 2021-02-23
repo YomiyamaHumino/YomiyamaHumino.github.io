@@ -52,12 +52,13 @@ img {
 	line-height: 50px;
 	z-index: 100;
 	position: fixed;
-	background-color: rgba(255, 255, 255, 0.2);
+	color:rgb(120, 80, 20);
 	margin: 10px;
 	cursor: pointer;
 }
 
 #hamburger a {
+	color:rgb(120, 80, 20);
 	text-decoration: none;
 }
 
