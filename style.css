@@ -50,8 +50,6 @@ img {
 #hamburger {
 	font-size: 50px;
 	line-height: 50px;
-	/*文字「≡、×」が下に寄っているため微調整*/
-	padding: 5px 5px 0px 5px;
 	z-index: 100;
 	position: fixed;
 	background-color: rgba(255, 255, 255, 0.2);
