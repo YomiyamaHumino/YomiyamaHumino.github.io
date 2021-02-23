@@ -52,14 +52,9 @@ img {
 	line-height: 50px;
 	z-index: 100;
 	position: fixed;
-	color:rgb(120, 80, 20);
+	color: rgba(128, 107, 78, 0.8);
 	margin: 10px;
 	cursor: pointer;
-}
-
-#hamburger a {
-	color:rgb(120, 80, 20);
-	text-decoration: none;
 }
 
 #header {
@@ -170,7 +165,7 @@ img {
 	background-color: ghostwhite;
 }
 
-#footer{
+#footer {
 	background-color: white;
 }
 
