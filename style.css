@@ -55,6 +55,7 @@ img {
 	color: rgba(128, 107, 78, 0.8);
 	margin: 10px;
 	cursor: pointer;
+	text-decoration: none;
 }
 
 #header {
